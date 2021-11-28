@@ -1,9 +1,9 @@
 #!/bin/sh
-sudo cp sources.list /etc/apt/sources.list
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
 gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 55
 gsettings set org.gnome.desktop.interface show-battery-percentage true
+sudo cp sources.list /etc/apt/sources.list
 sudo apt update
 sudo apt dist-upgrade -y
 sudo apt install vlc -y
