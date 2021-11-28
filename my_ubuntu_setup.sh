@@ -1,4 +1,5 @@
 #!/bin/sh
+sudo cp sources.list /etc/apt/sources.list
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
 gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 55
