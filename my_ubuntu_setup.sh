@@ -27,9 +27,9 @@ sudo apt install ubuntu-restricted-extras -y
 sudo apt install openvpn -y
 sudo apt install gnome-tweaks -y
 sudo apt install cmatrix -y
-sudo snap install opera
-sudo snap install brave
-sudo snap install teams
+#sudo snap install opera
+#sudo snap install brave
+#sudo snap install teams
 #Ubuntu only
 sudo apt remove gnome-logs -y
 sudo apt remove gnome-characters -y
