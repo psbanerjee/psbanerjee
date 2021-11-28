@@ -1,4 +1,8 @@
 #!/bin/sh
+gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
+gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 55
+gsettings set org.gnome.desktop.interface show-battery-percentage true
 sudo apt update
 sudo apt dist-upgrade -y
 sudo apt install vlc -y
@@ -32,11 +36,6 @@ sudo apt remove update-notifier -y
 sudo apt remove yelp -y
 sudo apt remove eog -y
 sudo snap remove snap-store
-#Run these on terminal
-#gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
-#gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
-#gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 55
-#gsettings set org.gnome.desktop.interface show-battery-percentage true
 #-------------------------------------
 #-------------------------------------
 sudo apt autoremove -y
