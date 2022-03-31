@@ -28,6 +28,7 @@ sudo apt install ubuntu-restricted-extras -y
 sudo apt install openvpn -y
 sudo apt install gnome-tweaks -y
 sudo apt install cmatrix -y
+sudo apt install remmina -y
 #sudo snap install opera
 #sudo snap install brave
 #sudo snap install teams
