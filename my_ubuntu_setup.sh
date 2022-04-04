@@ -22,13 +22,14 @@ sudo apt install telegram-desktop -y
 sudo apt install libreoffice -y
 sudo apt install octave -y
 sudo apt install neofetch -y
-sudo apt install screenfetch -y
+#sudo apt install screenfetch -y
 sudo apt install gnome-system-monitor -y
 sudo apt install ubuntu-restricted-extras -y
 sudo apt install openvpn -y
 sudo apt install gnome-tweaks -y
 sudo apt install cmatrix -y
 sudo apt install remmina -y
+sudo apt install thunderbird -y
 #sudo snap install opera
 #sudo snap install brave
 #sudo snap install teams
