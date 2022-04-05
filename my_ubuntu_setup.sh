@@ -3,7 +3,7 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
 gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 55
 gsettings set org.gnome.desktop.interface show-battery-percentage true
-sudo mv /etc/apt/sources.list /etc/apt/sources.list.bak 
+sudo mv /etc/apt/sources.list /etc/apt/focal_sources.list.bak 
 sudo cp sources.list /etc/apt/sources.list.d/
 sudo apt update
 sudo apt dist-upgrade -y
