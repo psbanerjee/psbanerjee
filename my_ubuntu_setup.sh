@@ -30,6 +30,9 @@ sudo apt install gnome-tweaks -y
 sudo apt install cmatrix -y
 sudo apt install remmina -y
 sudo apt install thunderbird -y
+sudo apt install fish -y
+sudo apt install inkscape -y
+sudo apt install gimp -y
 #sudo snap install opera
 #sudo snap install brave
 #sudo snap install teams
