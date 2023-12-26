@@ -1,7 +1,7 @@
 # Binary packages
 # ===============
-deb http://repo.iitd.ernet.in/ubuntu focal main restricted universe multiverse
-deb http://repo.iitd.ernet.in/ubuntu focal-updates main restricted universe multiverse
-deb http://repo.iitd.ernet.in/ubuntu focal-security main restricted universe multiverse
-deb http://repo.iitd.ernet.in/ubuntu focal-backports main restricted universe multiverse
-deb http://repo.iitd.ernet.in/ubuntu focal-proposed main restricted universe multiverse
+deb http://repo.iitd.ernet.in/ubuntu jammy main restricted universe multiverse
+deb http://repo.iitd.ernet.in/ubuntu jammy-updates main restricted universe multiverse
+deb http://repo.iitd.ernet.in/ubuntu jammy-security main restricted universe multiverse
+deb http://repo.iitd.ernet.in/ubuntu jammy-backports main restricted universe multiverse
+#deb http://repo.iitd.ernet.in/ubuntu jammy-proposed main restricted universe multiverse
