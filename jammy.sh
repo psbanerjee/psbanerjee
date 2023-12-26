@@ -5,7 +5,7 @@ gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 50
 gsettings set org.gnome.shell.extensions.dash-to-dock dock-position 'BOTTOM'
 gsettings set org.gnome.shell.extensions.dash-to-dock dock-fixed false
 gsettings set org.gnome.desktop.interface show-battery-percentage true
-sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak 
+sudo mv /etc/apt/sources.list /etc/apt/sources.list.bak 
 sudo cp jammy_sources.list /etc/apt/sources.list.d/
 sudo apt update
 sudo apt dist-upgrade -y
