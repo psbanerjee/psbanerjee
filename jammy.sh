@@ -10,6 +10,8 @@ sudo cp jammy_sources.list /etc/apt/sources.list.d/
 sudo apt update
 sudo apt dist-upgrade -y
 sudo apt install fish -y
+cp custom.fish .config/fish/conf.d/custom.fish
+cp fish_prompt.fish .config/fish/functions/fish_prompt.fish
 sudo apt install vlc -y
 sudo apt install clementine -y
 sudo apt install shotwell -y
