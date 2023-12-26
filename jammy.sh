@@ -9,6 +9,7 @@ sudo mv /etc/apt/sources.list /etc/apt/sources.list.bak
 sudo cp jammy_sources.list /etc/apt/sources.list.d/
 sudo apt update
 sudo apt dist-upgrade -y
+sudo apt install fish -y
 sudo apt install vlc -y
 sudo apt install clementine -y
 sudo apt install shotwell -y
@@ -32,7 +33,6 @@ sudo apt install gnome-tweaks -y
 sudo apt install cmatrix -y
 sudo apt install remmina -y
 sudo apt install thunderbird -y
-sudo apt install fish -y
 sudo apt install inkscape -y
 sudo apt install gimp -y
 sudo apt remove yelp -y
