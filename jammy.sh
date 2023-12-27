@@ -7,6 +7,8 @@ gsettings set org.gnome.shell.extensions.dash-to-dock dock-fixed false
 gsettings set org.gnome.desktop.interface show-battery-percentage true
 sudo mv /etc/apt/sources.list /etc/apt/sources.list.bak 
 sudo cp jammy_sources.list /etc/apt/sources.list.d/
+echo "http_proxy="http://proxy61.iitd.ac.in:3128""|sudo tee -a /etc/environment
+echo "https_proxy="http://proxy61.iitd.ac.in:3128""|sudo tee -a /etc/environment
 sudo apt update
 sudo apt dist-upgrade -y
 sudo apt install fish -y
