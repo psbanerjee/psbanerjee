@@ -1,10 +1,10 @@
-##How To Use The Configuration
+## How To Use The Configuration
 
 To use this configuration, first login to proxy server and then run the .sh file as 
 ```
 bash jammy.sh
 ```
-##How To Use The Fish Configuration
+## How To Use The Fish Configuration
 
 To use the customizations of fish shell open the fish shell and then type
 
