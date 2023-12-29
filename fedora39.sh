@@ -7,3 +7,4 @@ echo "fastestmirror=True"|sudo tee -a /etc/dnf/dnf.conf
 sudo dnf update -y
 sudo dnf install fish -y
 chsh -s $(which fish)
+sudo dnf install vlc -y
