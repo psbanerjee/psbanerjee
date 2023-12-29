@@ -11,3 +11,4 @@ sudo dnf install vlc -y
 sudo dnf install clementine -y
 sudo dnf install shotwell -y
 sudo dnf install gcc-gfortran -y
+sudo dnf install gnuplot -y
