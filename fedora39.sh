@@ -19,3 +19,9 @@ sudo dnf install gedit -y
 sudo dnf install transmission -y
 sudo dnf install octave -y
 sudo dnf install neofetch -y
+sudo dnf install gnome-tweaks -y
+sudo dnf install cmatrix -y
+sudo dnf install remmina -y
+sudo dnf install thunderbird -y
+sudo dnf install inkscape -y
+sudo dnf install gimp -y
