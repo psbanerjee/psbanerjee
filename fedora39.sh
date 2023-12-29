@@ -9,3 +9,4 @@ sudo dnf install fish -y
 chsh -s $(which fish)
 sudo dnf install vlc -y
 sudo dnf install clementine -y
+sudo dnf install shotwell -y
