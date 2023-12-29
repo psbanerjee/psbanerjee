@@ -35,4 +35,5 @@ sudo dnf remove totem -y
 sudo dnf remove simple-scan -y
 sudo dnf remove yelp -y
 sudo dnf remove gnome-tour -y
+sudo dnf autoremove -y
 neofetch
