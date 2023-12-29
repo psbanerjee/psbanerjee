@@ -25,3 +25,5 @@ sudo dnf install remmina -y
 sudo dnf install thunderbird -y
 sudo dnf install inkscape -y
 sudo dnf install gimp -y
+#---------------------------------------
+sudo dnf remove mediawriter -y
