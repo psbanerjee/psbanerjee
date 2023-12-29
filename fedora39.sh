@@ -25,6 +25,7 @@ sudo dnf install remmina -y
 sudo dnf install thunderbird -y
 sudo dnf install inkscape -y
 sudo dnf install gimp -y
+sudo dnf install yaru-theme -y
 #---------------------------------------
 sudo dnf remove mediawriter -y
 sudo dnf remove gnome-contacts -y
