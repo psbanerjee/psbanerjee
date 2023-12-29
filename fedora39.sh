@@ -13,3 +13,6 @@ sudo dnf install shotwell -y
 sudo dnf install gcc-gfortran -y
 sudo dnf install gnuplot -y
 sudo dnf install texlive-scheme-full -y
+sudo dnf install texstudio -y
+sudo dnf install gnome-disk-utility -y
+sudo dnf install gedit -y
