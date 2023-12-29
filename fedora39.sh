@@ -27,3 +27,12 @@ sudo dnf install inkscape -y
 sudo dnf install gimp -y
 #---------------------------------------
 sudo dnf remove mediawriter -y
+sudo dnf remove gnome-contacts -y
+sudo dnf remove gnome-weather -y
+sudo dnf remove gnome-clocks -y
+sudo dnf remove gnome-maps -y
+sudo dnf remove totem -y
+sudo dnf remove simple-scan -y
+sudo dnf remove yelp -y
+sudo dnf remove gnome-tour -y
+neofetch
