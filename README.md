@@ -1,8 +1,15 @@
 ## How To Use The Configuration
 
-To use this configuration, first login to proxy server and then run the .sh file as 
+To use this configuration, first login to proxy server.
+
+If you are using ubuntu then run the .sh file as 
 ```
 bash jammy.sh
+```
+
+If you are using fedora then run the .sh file as 
+```
+bash fedora39.sh
 ```
 ## How To Use The Fish Configuration
 
