@@ -18,3 +18,4 @@ sudo dnf install gnome-disk-utility -y
 sudo dnf install gedit -y
 sudo dnf install transmission -y
 sudo dnf install octave -y
+sudo dnf install neofetch -y
