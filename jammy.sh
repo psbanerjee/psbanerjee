@@ -31,6 +31,7 @@ sudo apt install telegram-desktop -y
 sudo apt install libreoffice -y
 sudo apt install octave -y
 sudo apt install neofetch -y
+sudo apt install drawing -y
 #sudo apt install screenfetch -y
 sudo apt install gnome-system-monitor -y
 sudo apt install ubuntu-restricted-extras -y
