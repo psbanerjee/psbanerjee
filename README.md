@@ -2,10 +2,15 @@
 
 To use this configuration, first login to proxy server.
 
-If you are using ubuntu then run the .sh file as 
+If you are using the latest version of ubuntu, i.e. 24.04, then run the .sh file as 
+```
+bash noble.sh
+```
+For the older version 22.04, then, run the .sh file as
 ```
 bash jammy.sh
 ```
+
 
 If you are using fedora then run the .sh file as 
 ```
