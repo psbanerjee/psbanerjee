@@ -1,11 +1,4 @@
-Types: deb
-URIs: http://repo.iitd.ac.in/ubuntu/
-Suites: noble noble-updates noble-backports
-Components: main restricted universe multiverse
-Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
-
-Types: deb
-URIs: http://repo.iitd.ac.in/ubuntu/
-Suites: noble-security
-Components: main restricted universe multiverse
-Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
+deb http://repo.iitd.ernet.in/ubuntu noble main restricted universe multiverse
+deb http://repo.iitd.ernet.in/ubuntu noble-updates main restricted universe multiverse
+deb http://repo.iitd.ernet.in/ubuntu noble-security main restricted universe multiverse
+deb http://repo.iitd.ernet.in/ubuntu noble-backports main restricted universe multiverse
