@@ -21,7 +21,7 @@ echo "no_proxy=\".iitd.ac.in,.iitd.ernet.in,localhost\""|sudo tee -a /etc/enviro
 sudo apt update
 sudo apt dist-upgrade -y
 sudo apt install fish -y
-chsh -s $(which fish)
+#chsh -s $(which fish)
 sudo apt install vlc -y
 sudo apt install clementine -y
 sudo apt install shotwell -y
